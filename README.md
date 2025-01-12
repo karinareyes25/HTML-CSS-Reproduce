@@ -1,4 +1,4 @@
-# HTML-CSS-Reproduce
+# HTML-CSS-Emojis
 A simple example of a page builded of HTML, CSS and some JavaScript.
 Status: In progress
 
