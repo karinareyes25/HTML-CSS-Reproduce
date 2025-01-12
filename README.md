@@ -1,2 +1,2 @@
 # HTML-CSS-Reproduce
-A simple example of a age builded of HTML, CSS and some JavaScript.
+A simple example of a page builded of HTML, CSS and some JavaScript.
