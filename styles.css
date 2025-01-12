@@ -1,0 +1,84 @@
+body{
+    background-color: #E6D4B8;
+    display: flex;
+    min-height: 100vh;
+}
+
+.emoji{
+    border: 1px solid #A8B5A1;
+    background-color: #F9F1E2;
+    width: 200px;
+    height: 90px;
+    margin: 5px;
+    line-height: 100px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: 0 auto;
+    align-content: center;
+}
+
+#fire{
+    background: linear-gradient(#e6c4aa, #D76B30);
+
+}
+
+#fire-heart{
+    background: linear-gradient(#D97C5D, #F1C0A8);
+
+}
+
+#heart{
+    background: linear-gradient(#68575d,#e0c6dd);
+}
+
+#kiss{
+    background: linear-gradient(#7C2A2A, #F0E1E1);
+}
+
+#star{
+    background: linear-gradient(#F1C27D, #A7A37E);
+}
+
+#rocket{
+    background: linear-gradient(#F2A9A3, #D6EADF);
+}
+
+#tree{
+    background: linear-gradient(#e2d3d8, #79af78);
+}
+
+#clap{
+    background: linear-gradient(#FFC857, #bed9bd )
+}
+
+#not-see{
+    background: linear-gradient(#8D5524, #E0AC69 )
+}
+
+#not-listen{
+    background: linear-gradient(#C68642, #F1C27D )
+}
+
+#not-speak{
+    background: linear-gradient(#7B4B3A, #E6C5B2 )
+}
+
+#white-heart{
+    background: linear-gradient(#8E9F85, #F2E8D4 )
+}
+
+#gorilla{
+    background: linear-gradient(#D7CCC8, #9E9E9E )
+}
+
+#key{
+    background: linear-gradient(#F8E2A7,#FDB44B );
+}
